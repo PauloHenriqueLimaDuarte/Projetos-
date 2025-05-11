@@ -1,3 +1,7 @@
-Para executar use qualquer executor(tanto pago como gratis)
+-Abra o Jogo https://www.roblox.com/pt/games/114113024880209/Sisyphus-Training-TRADING
 
-qualquer duvida entrar em contato comigo pleo discord tubaraoxdd
+-Use o Executor de sua escolha
+
+-aproveite o Exploit
+
+-qualquer duvida entrar em contato comigo pleo discord: tubaraoxdd
