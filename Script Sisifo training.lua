@@ -96,7 +96,7 @@ end
    end,
 })
 
-ocal Toggle = AutoFarmTab:CreateToggle({
+local Toggle = AutoFarmTab:CreateToggle({
    Name = "AutoClaimRewards",
    CurrentValue = false,
    Flag = "Claim", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
