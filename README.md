@@ -4,4 +4,4 @@
 
 -aproveite o Exploit
 
--qualquer duvida entrar em contato comigo pleo discord: tubaraoxdd
+-qualquer duvida entrar em contato comigo pelo discord: tubaraoxdd
