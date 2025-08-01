@@ -44,7 +44,7 @@ local runService = game:GetService("RunService")
     BillboardGUI Feature
 ]]
 local Toggle = EspTab:CreateToggle({
-    Name = "Aumentar BillboardGui",
+    Name = "BaseTimer",
     CurrentValue = false,
     Flag = "BiggerBillboardToggle",
     Callback = function(Value)
